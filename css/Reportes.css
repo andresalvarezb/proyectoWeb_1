@@ -882,12 +882,20 @@ display: block;
     }
     .flex-conteiner2{
         flex-direction: column;
+<<<<<<< HEAD:css/Reportes.css
         left: 31vi;
+=======
+        left: 33vi;
+>>>>>>> d92d05b (style: :sparkles: Actualización de media query):Reportes.css
         top: 25vi;
     }
     .flex{
         flex-direction: column;
+<<<<<<< HEAD:css/Reportes.css
         left: 21vi;
+=======
+        left: 23vi;
+>>>>>>> d92d05b (style: :sparkles: Actualización de media query):Reportes.css
         top: 38vi;
         height: 80vi;
         width: 60vi;
@@ -960,7 +968,11 @@ display: block;
     }
     .flex1{
         flex-direction: column;
+<<<<<<< HEAD:css/Reportes.css
         left: 21vi;
+=======
+        left: 23vi;
+>>>>>>> d92d05b (style: :sparkles: Actualización de media query):Reportes.css
         top: 120vi;
         height: 80vi;
         width: 60vi;
@@ -994,7 +1006,11 @@ display: block;
         font-family: 'Myriad pro, regular';
         font-weight: bold;
         font-size: 6vi;
+<<<<<<< HEAD:css/Reportes.css
         left: 39vi;
+=======
+        left: 41vi;
+>>>>>>> d92d05b (style: :sparkles: Actualización de media query):Reportes.css
         top: 123vi;
     }
     .descripcionme{
@@ -1003,7 +1019,11 @@ display: block;
         font-family: 'Myriad pro, regular';
         font-weight: bold;
         font-size: 6vi;
+<<<<<<< HEAD:css/Reportes.css
         left: 36vi;
+=======
+        left: 38vi;
+>>>>>>> d92d05b (style: :sparkles: Actualización de media query):Reportes.css
         top: 142.5vi;
     }
     .cumplimientome{
@@ -1012,7 +1032,11 @@ display: block;
         font-family: 'Myriad pro, regular';
         font-weight: bold;
         font-size: 6vi;
+<<<<<<< HEAD:css/Reportes.css
         left: 34vi;
+=======
+        left: 36vi;
+>>>>>>> d92d05b (style: :sparkles: Actualización de media query):Reportes.css
         top: 165vi;
     }
     .logologo{
@@ -1074,12 +1098,20 @@ display: block;
     .ver{
         position: absolute;
         top: 109vi;
+<<<<<<< HEAD:css/Reportes.css
         left: 40vi;
+=======
+        left: 43vi;
+>>>>>>> d92d05b (style: :sparkles: Actualización de media query):Reportes.css
     }
     .ver1{
         position: absolute;
         top: 192vi;
+<<<<<<< HEAD:css/Reportes.css
         left: 40vi;
+=======
+        left: 43vi;
+>>>>>>> d92d05b (style: :sparkles: Actualización de media query):Reportes.css
     }
     .b{
         display: block;

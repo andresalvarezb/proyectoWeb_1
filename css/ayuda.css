@@ -169,9 +169,12 @@ display: block;
     top: 12.8vi;
     left: 5.3vi;
 }
+<<<<<<< HEAD:css/ayuda.css
 .medialogo{
     display: none;
 }
+=======
+>>>>>>> d92d05b (style: :sparkles: Actualización de media query):ayuda.css
 @media screen and (max-width: 600px) {
     .flex-conteiner{
         flex-direction: column;
