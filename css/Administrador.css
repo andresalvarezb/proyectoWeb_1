@@ -5,13 +5,12 @@
 .margenBlanca2{
     position: absolute;
     background-color: white;
-    width: 40vi;
-    height: 28vi;
-    top: 23vh;
-    left: 29vw;
+    padding: 13vi 20vi;
+    top: 12vi;
+    left: 29vi;
     border-radius: 3vi;
     opacity: 0;
-    animation: blancox 4s forwards;
+    animation: blancox 2s forwards;
 }
 .logo{
     position:absolute;
@@ -47,7 +46,6 @@
     top: 22vi;
     left: 16.2vi;
 }
-
 @keyframes blancox {
     0%{
         opacity: 0;
@@ -59,14 +57,13 @@
         opacity: 0;
     }
 }
-
 .kario1{
     position: absolute;
-    animation: kario 2s forwards;
-    animation-delay: 4s;
+    animation: kario 2s;
+    animation-delay: 3s;
     opacity: 0;
-    top: 35vh;
-    left: 43vw;
+    top: 21vi;
+    left: 43vi;
     width: 12vw;
 }
 
@@ -80,51 +77,5 @@
     100%{
         opacity: 0;
     }
+    
 }
-<<<<<<< HEAD:css/Administrador.css
-
-@media screen and (max-width: 1024px) {
-
-    .kario1{
-        top: 38vh;
-        left: 40vw;
-        width: 25vi;
-    }
-    .margenBlanca2{
-        width: 60vi;
-        height: 45vi;
-        top: 32vh;
-        left: 20vw;
-    }
-    .logo{
-        top: 1vi;
-        left: 26.01vi;
-        width: 8vw;
-    }
-    .nuevo{
-        font-size: 3vi;
-        top: 9vi;
-        left: 16.7vi;
-    }
-    .welcome{
-        top: 16vi;
-        left: 23vi;
-        width: 14vw;
-    }
-    .neimar{
-        font-size: 3vi;
-        top: 28vi;
-        left: 22.6vi;
-    }
-    .administrador{
-        font-size: 1.3vi;
-        top: 35vi;
-        left: 24.1vi;
-    }
-}
-
-
-
-
-=======
->>>>>>> ac2570e (feat :rocket: Ingreso de imagenes):Administrador.css
