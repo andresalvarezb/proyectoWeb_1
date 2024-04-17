@@ -10,7 +10,11 @@
     top: 23vh;
     left: 29vw;
     border-radius: 3vi;
+<<<<<<< HEAD:css/Administrador.css
     opacity: 0;
+=======
+    opacity: 1;
+>>>>>>> 8a736d9 (style :art: Modificacion de media query menu admin):Administrador.css
     animation: blancox 4s ;
 }
 .logo{
@@ -82,7 +86,11 @@
     }
 }
 
+<<<<<<< HEAD:css/Administrador.css
 @media screen and (max-width: 600px) {
+=======
+@media screen and (max-width: 430px) {
+>>>>>>> 8a736d9 (style :art: Modificacion de media query menu admin):Administrador.css
 
     .kario1{
         left: 30vi;
@@ -90,6 +98,7 @@
     
     }
     .margenBlanca2{
+<<<<<<< HEAD:css/Administrador.css
         height: 120vi;
         width: 80vi;
         top: 20vh;
@@ -105,6 +114,23 @@
         font-size: 7vi;
         top: 30vi;
         left: 10vi;
+=======
+        height: 145vi;
+        width: 80vi;
+        top: 14vh;
+        left: 8vw;
+        border-radius: 10vi;
+    }
+    .logo{
+        width: 25vi;
+        left: 27vi;
+        top: 3vi;
+    }
+    .nuevo{
+        font-size: 5vi;
+        top: 30vi;
+        left: 9vi;
+>>>>>>> 8a736d9 (style :art: Modificacion de media query menu admin):Administrador.css
     }
     .welcome{
         top: 50vi;
