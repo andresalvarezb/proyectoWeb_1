@@ -913,6 +913,7 @@ display: block;
     left: 20vi;
     border-radius: 0.3vi;
 }
+<<<<<<< HEAD:css/añadir.css
 .indicadorme{
     display: none;
 }
@@ -933,11 +934,19 @@ display: block;
         flex-direction: column;
         width: 10vi;
         top: 100vi;
+=======
+
+@media screen and (max-width: 430px) {
+    .flex-conteiner{
+        flex-direction: column;
+        width: 10vi;
+>>>>>>> 090c2e5 (style :art: Modificacion de media query):añadir.css
     }
     .Añadir{
         display: none;
     }
     .mas{
+<<<<<<< HEAD:css/añadir.css
         display: none;
     }
     .circul{
@@ -958,6 +967,40 @@ display: block;
     .tuerca{
         width: 4vi;
         margin-top: 35vh;
+=======
+        width: 10vi;
+        margin-right: 5vi;
+        margin-top: 5vi;
+    }
+    .circul{
+        margin-top: 5vi;
+        margin-right: 5vi;
+        width: 10vi;
+    }
+    .caneca{
+        margin-top: 5vi;
+        margin-right: 5vi;
+        width: 10vi;
+    }
+    .logo{
+        margin-top: 5vi;
+        margin-right: 5vi;
+        width: 10vi;
+    }
+    .report{
+        margin-top: 6vi;
+        margin-right: 11vi;
+        width: 10vi;
+    }
+    .circle{
+        margin-top: 5vi;
+        margin-right: 5vi;
+        width: 10vi;
+    }
+    .tuerca{
+        width: 4vi;
+        margin-top: 80vi;
+>>>>>>> 090c2e5 (style :art: Modificacion de media query):añadir.css
         margin-left: 175vi;
     }
     .campana{
@@ -974,7 +1017,11 @@ display: block;
         display: none;
     }
     #cuadroSobrepuesto{
+<<<<<<< HEAD:css/añadir.css
         top: 160vi;
+=======
+        top: 171vi;
+>>>>>>> 090c2e5 (style :art: Modificacion de media query):añadir.css
         left: 51vi;
     }
     #contenidoCuadro{
@@ -982,6 +1029,7 @@ display: block;
         height: 45vi;
         background-image: linear-gradient(to bottom, #E66319 11vi, #3E3737 5vi);
     }
+<<<<<<< HEAD:css/añadir.css
     .flex2{
         display: none;
     }
@@ -1322,4 +1370,6 @@ display: block;
         top: 5vi;
         left: 43vi;
     }
+=======
+>>>>>>> 090c2e5 (style :art: Modificacion de media query):añadir.css
 }
