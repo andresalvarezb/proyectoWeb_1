@@ -10,12 +10,8 @@
     top: 23vh;
     left: 29vw;
     border-radius: 3vi;
-<<<<<<< HEAD:css/Administrador.css
     opacity: 0;
-=======
-    opacity: 1;
->>>>>>> 8a736d9 (style :art: Modificacion de media query menu admin):Administrador.css
-    animation: blancox 4s ;
+    animation: blancox 4s forwards;
 }
 .logo{
     position:absolute;
@@ -66,7 +62,7 @@
 
 .kario1{
     position: absolute;
-    animation: kario 2s;
+    animation: kario 2s forwards;
     animation-delay: 4s;
     opacity: 0;
     top: 35vh;
@@ -86,66 +82,43 @@
     }
 }
 
-<<<<<<< HEAD:css/Administrador.css
-@media screen and (max-width: 600px) {
-=======
-@media screen and (max-width: 430px) {
->>>>>>> 8a736d9 (style :art: Modificacion de media query menu admin):Administrador.css
+@media screen and (max-width: 1024px) {
 
     .kario1{
-        left: 30vi;
-        width: 40vi;
-    
+        top: 38vh;
+        left: 40vw;
+        width: 25vi;
     }
     .margenBlanca2{
-<<<<<<< HEAD:css/Administrador.css
-        height: 120vi;
-        width: 80vi;
-        top: 20vh;
-        left: 10vw;
-        border-radius: 10vi;
+        width: 60vi;
+        height: 45vi;
+        top: 32vh;
+        left: 20vw;
     }
     .logo{
-        width: 20vi;
-        left: 30vi;
-        top: 5vi;
+        top: 1vi;
+        left: 26.01vi;
+        width: 8vw;
     }
     .nuevo{
-        font-size: 7vi;
-        top: 30vi;
-        left: 10vi;
-=======
-        height: 145vi;
-        width: 80vi;
-        top: 14vh;
-        left: 8vw;
-        border-radius: 10vi;
-    }
-    .logo{
-        width: 25vi;
-        left: 27vi;
-        top: 3vi;
-    }
-    .nuevo{
-        font-size: 5vi;
-        top: 30vi;
-        left: 9vi;
->>>>>>> 8a736d9 (style :art: Modificacion de media query menu admin):Administrador.css
+        font-size: 3vi;
+        top: 9vi;
+        left: 16.7vi;
     }
     .welcome{
-        top: 50vi;
-        left: 24vi;
-        width: 30vw;
+        top: 16vi;
+        left: 23vi;
+        width: 14vw;
     }
     .neimar{
-        font-size: 7vi;
-        top: 80vi;
+        font-size: 3vi;
+        top: 28vi;
         left: 22.6vi;
     }
     .administrador{
-        font-size: 2.5vi;
-        top: 100vi;
-        left: 28.2vi;
+        font-size: 1.3vi;
+        top: 35vi;
+        left: 24.1vi;
     }
 }
 

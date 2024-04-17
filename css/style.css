@@ -142,6 +142,7 @@ body{
 }
 
 <<<<<<< HEAD:css/style.css
+<<<<<<< HEAD:css/style.css
 @media screen and (max-width: 600px) {
 =======
 @media screen and (max-width: 430px) {
@@ -211,5 +212,70 @@ body{
         width: 60vi;
         font-size: 2.2vi;
         text-align: center;
+=======
+@media screen and (max-width: 1024px) {
+    .kario{
+        top: 38vh;
+        left: 40vw;
+        width: 25vi;
+    }
+    .margenBlanca{
+        width: 60vi;
+        height: 45vi;
+        top: 35vh;
+        left: 20vw;
+    }
+    .media{
+        top: 1vi;
+        left: 26.01vi;
+        width: 8vw;
+    }
+    .bienvenido{
+        font-size: 2.1vi;
+        top: 9vi;
+        left: 16.85vi;
+    }
+    .ingresa{
+        font-size: 1.3vi;
+        top: 15vi;
+        left: 12.6vi;
+    }
+    .usuario{
+        top: 18.5vi;
+        left: 7.2vi;
+        font-size: 2vi;
+    }
+    #usuario2{
+        width: 45vi;
+        height: 3vi;
+        top: 21vi;
+        left: 7vi;
+        border-radius: 1.5vi;
+    }
+    .contraseña{
+        top: 25.5vi;
+        left: 7.2vi;
+        font-size: 2vi;   
+    }
+    #contraseña2{
+        width: 45vi;
+        height: 3vi;
+        top: 28vi;
+        left: 7vi;
+        border-radius: 1.5vi;
+    }
+    .panel{
+        top: 34vi;
+        left: 21.5vi;
+        width: 17vi;
+        height: 5vi;
+        border-radius: 2vi;
+        font-size: 2vi;
+    }
+    .tienes{
+        top: 40vi;
+        left: 7.2vi;
+        font-size: 1.1vi;
+>>>>>>> 95365e0 (style :art: modificaciones de estilo):style.css
     }
 }
